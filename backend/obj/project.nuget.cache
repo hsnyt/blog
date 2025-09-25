@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "G0ggAspnwt8=",
+  "success": true,
+  "projectFilePath": "/Users/hoshinoyuuta/prod/blog/backend/backend.csproj",
+  "expectedPackageFiles": [
+    "/Users/hoshinoyuuta/.nuget/packages/microsoft.aspnetcore.openapi/9.0.4/microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "/Users/hoshinoyuuta/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
